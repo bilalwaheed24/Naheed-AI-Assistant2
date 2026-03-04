@@ -1,0 +1,6 @@
+node_modules/
+dist/
+app/
+*.exe
+*.log
+.env
